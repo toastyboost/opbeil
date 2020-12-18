@@ -1,7 +1,7 @@
 /* ===================================================================
     
     Author          : Valid Theme
-    Template Name   : Opbeil - SEO & Digital Marketing Agency Template
+    Template Name   : Social Media Marketing, SEO, Content Marketing, PPC Advertising, Competitor Research Template
     Version         : 1.0
     
 * ================================================================= */
@@ -317,6 +317,7 @@
       margin: 30,
       dots: true,
       autoplay: false,
+      mouseDrag: false,
       items: 1,
       navText: [
         "<i class='fa fa-angle-left'></i>",
